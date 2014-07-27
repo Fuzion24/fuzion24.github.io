@@ -1,0 +1,12 @@
+# Site settings
+title: Out of Bounds Access
+email: ryan DOT g DOT welton AT gmail
+description: ""
+baseurl: ""
+url: "http://fuzion24.github.io"
+twitter_username: fuzion24
+github_username: fuzion24
+
+# Build settings
+markdown: redcarpet
+permalink: pretty
