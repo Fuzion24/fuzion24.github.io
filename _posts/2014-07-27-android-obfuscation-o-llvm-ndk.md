@@ -12,7 +12,7 @@ Obfuscation is a technique employed to hide the intent of an application.  The t
  - [Dexguard](https://www.saikoa.com/dexguard)
  - [DexProtector](http://dexprotector.com/)
  - [ApkProtect](http://www.apkprotect.com/)
- - [Shielf4j](http://shield4j.com/main/sidecc63dd15b9656e1c877087e024689646fc27b38)
+ - [Shield4j](http://shield4j.com/main/sidecc63dd15b9656e1c877087e024689646fc27b38)
  - [Stringer](https://jfxstore.com/stringer/)
  - [Allitori](http://www.allatori.com/features/android-obfuscation.html)
 
